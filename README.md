@@ -1,5 +1,8 @@
-# Installation
+DecentralPriceTracker
+DecentralPriceTracker: Real-time wBNB Price on BSC. Powered by decentralized infrastructure from Pocket Network, stay informed securely and reliably.
 
+
+# Installation
 1. Create an account on [Pocket Network Portal](https://www.portal.pokt.network) to obtain your Pocket Network URL.
 
 2. Clone the repository and navigate to the project directory.
